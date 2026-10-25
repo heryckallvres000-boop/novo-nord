@@ -1,0 +1,6 @@
+{
+  "name": "Nord Stage 4 Synthesizer Workstation",
+  "description": "Fidelity digital reproduction of the iconic Nord Stage 4 hardware synthesizer panel with interactive tactile knobs, OLED displays, LED meters, and modulation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

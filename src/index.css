@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "./styles/textures.css";
+
+/* Global styles for synthesizer hardware reproduction */
+html, body, #root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #0d0f12;
+}
+
+/* Prevent unwanted browser behaviors during hardware dragging */
+.prevent-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
